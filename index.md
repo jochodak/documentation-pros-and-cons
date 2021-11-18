@@ -1,5 +1,5 @@
 # Advantages and disadvantages of Confluence/JIRA/Flare documentation
-- 
+
   - [Confluence](#confluence)
   - [JIRA](#jira)
   - [Flare](#flare)
